@@ -6,7 +6,7 @@ Outcome of the analysis are visualised by creating charts, graphs, and interacti
 
 The data set included with the project is based on 2014 ACS 1-year estimates: https://factfinder.census.gov/faces/nav/jsf/pages/searchresults.xhtml .
 
-Please see the final visualisation here.
+Please see the final visualisation at https://samravp.github.io/D3.js/ .
 
 ## Analysis
 
