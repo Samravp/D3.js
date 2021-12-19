@@ -1,6 +1,6 @@
 # D3.js
 
-In this project, we are analysing the current trends that are shaping people's lives to publish on a newspaper. 
+In this project, I am analysing the current trends that are shaping people's lives to publish on a newspaper. 
 
 Outcome of the analysis are visualised by creating charts, graphs, and interactive elements to help readers understand the findings.
 
@@ -10,7 +10,6 @@ Please see the final visualisation [here](https://samravp.github.io/D3.js-Dashbo
 
 
 <img width="717" alt="Screen Shot 2021-12-19 at 14 49 34" src="https://user-images.githubusercontent.com/85004202/146663259-b97d8c7a-26db-4130-9a79-33737fb7b4eb.png">
-
 
 
 
@@ -28,4 +27,4 @@ While the ticks on the axes allow users to infer approximate values for each cir
 
 I added tooltips to the circles and displayed each tooltip with the data that the user has selected, I used the d3-tip.js plugin developed by Justin Palmer.
 
-I used David Gotz's example to understand how I should implement tooltips with d3-tip.
+I used [David Gotz's example](http://bl.ocks.org/davegotz/bd54b56723c154d25eedde6504d30ad7) to understand how I should implement tooltips with d3-tip.
